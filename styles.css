@@ -3,14 +3,18 @@
     margin-left: 55px;
 }
 
-.notice {
-    font-size: 50px;
-    font-family: "Comic Sans MS", cursive;
-}
 
 .img-container {
     display: flex;
     justify-content: center; /* Center horizontally */
     align-items: center; /* Center vertically */
-    height: 65vh; /* Set container height to full viewport height */
+    height: 55vh; /* Set container height to full viewport height */
+}
+
+.notice {
+    font-family: "Caprasimo", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+    text-align: center;
 }
