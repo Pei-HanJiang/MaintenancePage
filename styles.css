@@ -8,7 +8,7 @@
     display: flex;
     justify-content: center; /* Center horizontally */
     align-items: center; /* Center vertically */
-    height: 70vh; /* Set container height to full viewport height */
+    height: 60vh; /* Set container height to full viewport height */
 }
 /* try again for error*/
 .notice {
