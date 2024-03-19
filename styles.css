@@ -1,0 +1,16 @@
+.navbar-nav li {
+    margin-right: 55px;
+    margin-left: 55px;
+}
+
+.notice {
+    font-size: 50px;
+    font-family: "Comic Sans MS", cursive;
+}
+
+.img-container {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    height: 65vh; /* Set container height to full viewport height */
+}
